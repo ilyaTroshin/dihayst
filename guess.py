@@ -1,4 +1,4 @@
-# подключаем модуль
+# подключаем модуль  123
 import random
 myName = input('здравствуйте! Как вас зовут?')
 number = random.randint(1,50)
